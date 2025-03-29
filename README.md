@@ -20,7 +20,7 @@
 ```
 git clone https://github.com/yourname/vector-vibe.git
 cd vector-vibe
+py -m venv .venv
 pip install .
 py main.py
 ```
-
